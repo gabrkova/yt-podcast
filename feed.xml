@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AI shrnuti z YouTube</title>
+    <title>Ejáj pro mě</title>
     <link>https://gabrkova.github.io/yt-podcast</link>
     <language>cs</language>
-    <description>Automaticka ceska AI shrnuti vybranych YouTube videi.</description>
-    <itunes:author>Gabor</itunes:author>
-    <itunes:owner><itunes:name>Gabor</itunes:name><itunes:email>gabr.kova@gmail.com</itunes:email></itunes:owner>
+    <description>Automatická česká AI shrnutí vybraných videí z YouTube — krátké přehledy obsahu k poslechu.</description>
+    <itunes:author>Gábor</itunes:author>
+    <itunes:owner><itunes:name>Gábor</itunes:name><itunes:email>gabr.kova@gmail.com</itunes:email></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://gabrkova.github.io/yt-podcast/cover.jpg"/>
@@ -27,7 +27,7 @@ Kritický pohled. Návod je praktický a metody fungují, ale je silně zaměře
 
 Alternativy. Kdo chce jednoduchost bez nastavování VPN, může zvážit Chrome Remote Desktop, který je zdarma a funguje napříč systémy, nebo open-source nástroj RustDesk jako náhradu TeamVieweru. Pro čistě serverovou správu stačí samotné SSH s klíči. Místo Tailscale lze použít čistý WireGuard nebo Twingate.</itunes:summary>
       <guid isPermaLink="false">d9Do8y4pg90</guid>
-      <pubDate>Thu, 25 Jun 2026 19:10:51 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 19:23:29 +0000</pubDate>
       <enclosure url="https://gabrkova.github.io/yt-podcast/d9Do8y4pg90.mp3" length="2043507" type="audio/mpeg"/>
       <itunes:duration>170</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
