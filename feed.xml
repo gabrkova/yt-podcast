@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI shrnuti z YouTube</title>
+    <link>https://gabrkova.github.io/yt-podcast</link>
+    <language>cs</language>
+    <description>Automaticka ceska AI shrnuti vybranych YouTube videi.</description>
+    <itunes:author>Gabor</itunes:author>
+    <itunes:owner><itunes:name>Gabor</itunes:name><itunes:email>gabr.kova@gmail.com</itunes:email></itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://gabrkova.github.io/yt-podcast/cover.jpg"/>
+    <item>
+      <title>Ovládání počítače na dálku: 4 způsoby, které fungují - AI s rozumem (Filip Oborník)</title>
+      <description>Ovládání počítače na dálku. Video z kanálu AI s rozumem od Filipa Oborníka.
+
+Video se věnuje tomu, jak na dálku ovládat počítač, na kterém běží vaši AI agenti, ať už z jiného počítače, nebo z telefonu. Filip Oborník vychází z běžné situace: necháváte agenty pracovat doma na samostatném stroji, ale potřebujete se k němu dostat, i když u něj nejste, klidně z jiné sítě nebo budovy. Nejjednodušší možností je TeamViewer, pro osobní použití zdarma, funguje hned po instalaci na obě zařízení, jen bývá pomalejší a občas zlobí. Autorovo vlastní, rychlejší řešení stojí na VPN přes aplikaci Tailscale, která je zdarma pro neomezený počet zařízení a propojí všechny stroje, jako by byly na stejné síti; je potřeba ji nainstalovat a mít aktivní na všech zařízeních. S běžící VPN pak počítač ovládáte buď přes terminál, tedy SSH, na telefonu třeba aplikací Terminus, nebo graficky: mezi počítači Mac přes nativní Screen Sharing a napříč systémy, i z Windows, přes aplikaci RealVNC Viewer. Připojení se vždy zadává pomocí IP adresy a o šifrování se stará samotná VPN. Zazní i rychlý trik přímo v Claude: do běžící session napíšete remote control, chat se propojí přes Anthropic Cloud a stejnou úlohu pak otevřete na mobilu i v desktopové aplikaci.
+
+Kritický pohled. Návod je praktický a metody fungují, ale je silně zaměřený na systém macOS; uživatelé Windows dostanou jen okrajovou zmínku. Trik remote control je pohodlný, ale váže vás na Anthropic Cloud a hodí se spíš ke sledování běžící úlohy než k plné správě počítače. Bezpečnost je zmíněná jen letmo; u SSH by stálo za to přihlašovat se přes klíče místo hesla.
+
+Alternativy. Kdo chce jednoduchost bez nastavování VPN, může zvážit Chrome Remote Desktop, který je zdarma a funguje napříč systémy, nebo open-source nástroj RustDesk jako náhradu TeamVieweru. Pro čistě serverovou správu stačí samotné SSH s klíči. Místo Tailscale lze použít čistý WireGuard nebo Twingate.</description>
+      <itunes:summary>Ovládání počítače na dálku. Video z kanálu AI s rozumem od Filipa Oborníka.
+
+Video se věnuje tomu, jak na dálku ovládat počítač, na kterém běží vaši AI agenti, ať už z jiného počítače, nebo z telefonu. Filip Oborník vychází z běžné situace: necháváte agenty pracovat doma na samostatném stroji, ale potřebujete se k němu dostat, i když u něj nejste, klidně z jiné sítě nebo budovy. Nejjednodušší možností je TeamViewer, pro osobní použití zdarma, funguje hned po instalaci na obě zařízení, jen bývá pomalejší a občas zlobí. Autorovo vlastní, rychlejší řešení stojí na VPN přes aplikaci Tailscale, která je zdarma pro neomezený počet zařízení a propojí všechny stroje, jako by byly na stejné síti; je potřeba ji nainstalovat a mít aktivní na všech zařízeních. S běžící VPN pak počítač ovládáte buď přes terminál, tedy SSH, na telefonu třeba aplikací Terminus, nebo graficky: mezi počítači Mac přes nativní Screen Sharing a napříč systémy, i z Windows, přes aplikaci RealVNC Viewer. Připojení se vždy zadává pomocí IP adresy a o šifrování se stará samotná VPN. Zazní i rychlý trik přímo v Claude: do běžící session napíšete remote control, chat se propojí přes Anthropic Cloud a stejnou úlohu pak otevřete na mobilu i v desktopové aplikaci.
+
+Kritický pohled. Návod je praktický a metody fungují, ale je silně zaměřený na systém macOS; uživatelé Windows dostanou jen okrajovou zmínku. Trik remote control je pohodlný, ale váže vás na Anthropic Cloud a hodí se spíš ke sledování běžící úlohy než k plné správě počítače. Bezpečnost je zmíněná jen letmo; u SSH by stálo za to přihlašovat se přes klíče místo hesla.
+
+Alternativy. Kdo chce jednoduchost bez nastavování VPN, může zvážit Chrome Remote Desktop, který je zdarma a funguje napříč systémy, nebo open-source nástroj RustDesk jako náhradu TeamVieweru. Pro čistě serverovou správu stačí samotné SSH s klíči. Místo Tailscale lze použít čistý WireGuard nebo Twingate.</itunes:summary>
+      <guid isPermaLink="false">d9Do8y4pg90</guid>
+      <pubDate>Thu, 25 Jun 2026 19:10:51 +0000</pubDate>
+      <enclosure url="https://gabrkova.github.io/yt-podcast/d9Do8y4pg90.mp3" length="2043507" type="audio/mpeg"/>
+      <itunes:duration>170</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
